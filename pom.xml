@@ -19,7 +19,7 @@
         <maven-surefire.version>3.2.3</maven-surefire.version>
         <maven-scalatest.version>2.2.0</maven-scalatest.version>
 
-        <maven-scoverage.version>2.0.0</maven-scoverage.version>
+        <maven-scoverage.version>2.0.1</maven-scoverage.version>
         <maven-scala.version>4.8.1</maven-scala.version>
         <maven-site-plugin.version>3.12.1</maven-site-plugin.version>
         <maven-project-info-reports-plugin.version>3.5.0</maven-project-info-reports-plugin.version>
