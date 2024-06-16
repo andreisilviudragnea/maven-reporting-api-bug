@@ -22,7 +22,7 @@
         <maven-scoverage.version>2.0.2</maven-scoverage.version>
         <maven-scala.version>4.9.1</maven-scala.version>
         <maven-site-plugin.version>3.12.1</maven-site-plugin.version>
-        <maven-project-info-reports-plugin.version>3.5.0</maven-project-info-reports-plugin.version>
+        <maven-project-info-reports-plugin.version>3.6.0</maven-project-info-reports-plugin.version>
 
         <!-- run by scoverage -->
         <skipTests>true</skipTests>
