@@ -15,7 +15,7 @@
         <scala.version.major>2.13</scala.version.major>
         <scala.version.minor>7</scala.version.minor>
         <scala.version>${scala.version.major}.${scala.version.minor}</scala.version>
-        <scalatest.version>3.2.18</scalatest.version>
+        <scalatest.version>3.2.19</scalatest.version>
         <maven-surefire.version>3.3.0</maven-surefire.version>
         <maven-scalatest.version>2.2.0</maven-scalatest.version>
 
