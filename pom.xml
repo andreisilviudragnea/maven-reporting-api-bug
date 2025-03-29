@@ -20,7 +20,7 @@
         <maven-scalatest.version>2.2.0</maven-scalatest.version>
 
         <maven-scoverage.version>2.0.2</maven-scoverage.version>
-        <maven-scala.version>4.9.2</maven-scala.version>
+        <maven-scala.version>4.9.5</maven-scala.version>
         <maven-site-plugin.version>3.21.0</maven-site-plugin.version>
         <maven-project-info-reports-plugin.version>3.9.0</maven-project-info-reports-plugin.version>
 
